@@ -1,4 +1,4 @@
-A simple React + Redux project to retrieve, render and manipulate data returned from an API.
+![screenshot](./screenshot.png)A simple React + Redux project to retrieve, render and manipulate data returned from an API.
 
 ## Commands
 
@@ -16,3 +16,7 @@ A simple React + Redux project to retrieve, render and manipulate data returned 
 4. Display and format the timestamp of the message to be human readable
 
 5. Sort the messages by time
+
+## Avatars
+
+https://www.botlibre.com/
